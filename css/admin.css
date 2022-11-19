@@ -1,0 +1,16 @@
+.table{
+    width: 1000px;
+}
+tr > td{
+   width: 400px;
+   word-break: break-all;
+}
+a{
+    height: 38px;
+}
+p{
+    margin-top: 50px;
+}
+img{
+    margin-top: 20px;
+}
